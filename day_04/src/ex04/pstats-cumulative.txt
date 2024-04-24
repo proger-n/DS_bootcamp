@@ -1,0 +1,14 @@
+('Total Revenue', '227,583,000', '211,915,000', '198,270,000', '168,088,000', '143,015,000')
+         216458 function calls (214039 primitive calls) in 0.932 seconds
+
+   Ordered by: cumulative time
+   List reduced from 751 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.932    0.932 profile:0(main())
+      3/1    0.000    0.000    0.932    0.932 :0(exec)
+        1    0.000    0.000    0.932    0.932 <string>:1(<module>)
+        1    0.000    0.000    0.932    0.932 /home/na_pc/projects/s21/ds_bc/DS_Bootcamp.Day03-1/src/ex04/financial_enhanced.py:33(main)
+        1    0.000    0.000    0.932    0.932 /home/na_pc/projects/s21/ds_bc/DS_Bootcamp.Day03-1/src/ex04/financial_enhanced.py:12(fetch_financial_data)
+
+

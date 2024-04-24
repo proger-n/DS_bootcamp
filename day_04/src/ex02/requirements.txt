@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+colorama==0.4.6
+exceptiongroup==1.2.0
+iniconfig==2.0.0
+packaging==24.0
+pluggy==1.4.0
+pytest==8.1.1
+six==1.14.0
+soupsieve==2.0
+termgraph==0.2.0
+tomli==2.0.1
+wcwidth==0.1.9
+zipp==3.1.0
